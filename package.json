@@ -2,7 +2,7 @@
   "name": "react-redux-starter-kit",
   "version": "3.0.0-alpha.1",
   "description": "Get started with React, Redux, and React-Router!",
-  "main": "index.js",
+  "main": "bin/server.js",
   "engines": {
     "node": ">=4.2.0",
     "npm": "^3.0.0"
